@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Siraj Lyons"
 title_separator          : "-"
 name                     : &name "Siraj Lyons"
@@ -24,7 +24,7 @@ repository               : "koffeinhaltigt-lejon/koffeinhaltigt-lejon.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Siraj Lyons"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate at the University of Louisville"
   location         : "Louisville, KY"
