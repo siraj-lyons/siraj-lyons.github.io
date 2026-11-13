@@ -233,9 +233,7 @@ collections:
   talks:
     output: false
     permalink: /:collection/:path/
-  research:
-    output: true
-    permalink: /research/:path/
+
 
 
 # These settings control how pages and collections are included in the site
